@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: Guo的个人主页 # the website title (if blank, full name will be used instead)
-first_name:
-middle_name:
-last_name: Guo Xuwei
+first_name: Guo Xuwei
+middle_name: 
+last_name: 
 contact_note: >
   世间万千奇迹，静候你我洞见。
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
