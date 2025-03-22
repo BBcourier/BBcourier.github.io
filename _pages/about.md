@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-嗨！我是马来西亚国立大学软件工程专业的在读博士生。
+嗨，欢迎来到我的个人主页！
+
+我是马来西亚国立大学软件工程专业的在读博士生。
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
