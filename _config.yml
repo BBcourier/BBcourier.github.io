@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Guo Xuwei
+title: Xuwei Guo # the website title (if blank, full name will be used instead)
+first_name: Xuwei
 middle_name: 
-last_name: 
+last_name: Guo
 contact_note: >
   世间万千奇迹，静候你我洞见。
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal academic homepage of Xuwei Guo, a Ph.D. student in Software Engineering at Universiti Kebangsaan Malaysia. His research focuses on AI-driven software engineering, explainable artificial intelligence, story point estimation, and software effort and cost estimation.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -17,7 +17,7 @@ keywords: personal-homepage, share # add your own keywords or leave empty
 lang: cn # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://BBcourier.github.io # the base hostname & protocol for your site
+url: https://david-guo.cn/ # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Guo]
+  first_name: [Xuwei, X.]
 
   style: apa
   locale: en
